@@ -10,5 +10,6 @@ developers, content strategists, user experience designers and creative technolo
 
 
 > Sample Code
-```Print("My Figma Ac")
+```python
+print("Figma : Design tool")
 ```
